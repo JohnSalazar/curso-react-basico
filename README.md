@@ -1,2 +1,3 @@
 # curso-react-basico
-Created with CodeSandbox
+
+Link para o projeto [aqui](https://ljde0.csb.app/)
